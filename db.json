@@ -1,3 +1,30 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello, my name is Haroldddd"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Haroldddd"
+    },
+    {
+      "role": "user",
+      "content": "what is my name?",
+      "id": "ecd91ee3-5db0-428d-a589-7c708245b501",
+      "createdAt": "2025-11-06T03:29:15.086Z"
+    },
+    {
+      "role": "user",
+      "content": "My name is actually Bill",
+      "id": "13f68d99-24b4-4aaa-a70f-f4315e02f097",
+      "createdAt": "2025-11-06T03:35:21.968Z"
+    },
+    {
+      "role": "user",
+      "content": "What is my REAL name?",
+      "id": "90d6a45f-7840-452d-aa05-68317966f927",
+      "createdAt": "2025-11-06T03:35:43.340Z"
+    }
+  ]
 }
