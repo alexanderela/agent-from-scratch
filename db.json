@@ -25,6 +25,33 @@
       "content": "What is my REAL name?",
       "id": "90d6a45f-7840-452d-aa05-68317966f927",
       "createdAt": "2025-11-06T03:35:43.340Z"
+    },
+    {
+      "role": "user",
+      "content": "what is the weater?",
+      "id": "26c603ea-3a74-4d33-a511-2fed6dd24f2f",
+      "createdAt": "2025-11-07T23:45:00.944Z"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "role": "assistant",
+        "content": null,
+        "tool_calls": [
+          {
+            "id": "call_JJ5neKIJmL9AO0Q4nmvBvaxg",
+            "type": "function",
+            "function": {
+              "name": "get_weather",
+              "arguments": "{}"
+            }
+          }
+        ],
+        "refusal": null,
+        "annotations": []
+      },
+      "id": "2d6a24a0-5cc7-4598-8eaa-014e2728d9a3",
+      "createdAt": "2025-11-07T23:45:03.273Z"
     }
   ]
 }
